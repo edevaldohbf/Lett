@@ -1,0 +1,1 @@
+Nome	Preço à vista	Preço a prazo	Quantidade em estoque	Clock base	Clock boost
